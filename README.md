@@ -44,8 +44,8 @@
 
 **⚠ 本仓库提供规则订阅，我们更推荐 fork 本项目自行构建规则集.**
 
-广告过滤规则demonicAsura链接：https://raw.githubusercontent.com/Shura23/AdguardHome-demonicAsura/v2/rule/easylist.txt </br>
-推荐使用国内加速链接：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Shura23/AdguardHome-demonicAsura/v2/rule/easylist.txt
+广告过滤规则demonicAsura链接：(https://raw.githubusercontent.com/Shura23/adghRuleShura23/refs/heads/v2/rule/easylist.txt) </br>
+推荐使用国内加速链接：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Shura23/adghRuleShura23/refs/heads/v2/rule/easylist.txt </br>
 
 ### 本项目使用的上游规则列表
 | Name                                                                                                        | URL                                                                                                                                           |
