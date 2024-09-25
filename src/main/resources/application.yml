@@ -29,7 +29,7 @@ application:
       - name: "DD-AD"
         path: 'https://cdn.jsdelivr.net/gh/afwfv/DD-AD@main/rule//dns.txt'
       - name: "local-host"
-        path: 'https://raw.githubusercontent.com/xiulou23/AdguardHome-demonicAsura/refs/heads/v2/rule/local-rule.txt'
+        path: 'https://raw.githubusercontent.com/Shura23/adghRuleShura23/refs/heads/v2/rule/local-rule.txt'
       
       - name: "anti-AD"
         path: 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt'
