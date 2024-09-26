@@ -23,6 +23,8 @@
 #小米骚扰拦截 数据库更新
 @@||api.sec.miui.com^$important
 
+@@||alicdn.com^$important
+
 #放行和讯新闻网站
 @@||news.hexun.com^$important
 @@||web.hexun.com^$important
