@@ -3,6 +3,8 @@
 #图床
 @@||pic.imgdb.cn
 
+@@||www.a.shifen.com^$important
+
 #微信支付
 @@||payapp.weixin.qq.com^$important
 #放行ghostery扩展程序
