@@ -581,7 +581,7 @@
 ||telecome.cn^$important
 ||unioncom.cc^$important
 
-@@||g.alicdn.com^$important
+
 #放行雅虎
 @@||yahoo.com^$important
 
