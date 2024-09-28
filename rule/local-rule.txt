@@ -5,7 +5,8 @@
 
 #微信支付
 @@||payapp.weixin.qq.com^$important
-
+#放行ghostery扩展程序
+@@||anonymous-communication.ghostery.net^$important
 #夸克网盘
 @@||pan.quark.cn^$important
 @@||drive.quark.cn^$important
