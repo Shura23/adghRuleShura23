@@ -366,8 +366,8 @@
 @@||rsc.cdn77.org^$important
 @@||ocsp.digicert.com^$important
 @@||*digicert.com^$important
-#放行ghostery扩展
-@@||*.ghostery.*^$important
+
+
 #放行nvidiv
 @@||gx-target-experiments-frontend-api.gx.nvidia.com^$important
 
