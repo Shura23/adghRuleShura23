@@ -5,6 +5,11 @@
 
 @@||www.a.shifen.com^$important
 
+@@||www.a.shifen.com^$important
+#放行三角洲行动
+@@||hc.tdm.qq.com^$important
+@@||itop.qq.com^$important
+
 #微信支付
 @@||payapp.weixin.qq.com^$important
 #放行ghostery扩展程序
