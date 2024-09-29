@@ -496,7 +496,7 @@
 
 @@||ocsp.dcocsp.cn^$important
 
-@@||www.bing.com^$important
+
 
 #放行Firefox跟踪保护
 @@||tracking-protection.prod.mozaws.net^$important
