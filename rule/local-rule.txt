@@ -8,6 +8,7 @@
 @@||www.a.shifen.com^$important
 #放行三角洲行动
 @@||cdntips.net^$important
+@@||itop.qq.com^$important
 
 #微信支付
 @@||payapp.weixin.qq.com^$important
