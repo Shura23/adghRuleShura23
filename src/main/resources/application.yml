@@ -33,8 +33,8 @@ application:
       
       - name: "anti-AD"
         path: 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt'
-      - name: "冷莫的白名单"
-        path: 'https://github.com/Potterli20/file/releases/download/github-hosts/allow.txt'
+     # - name: "冷莫的白名单"
+     #   path: 'https://github.com/Potterli20/file/releases/download/github-hosts/allow.txt'
       - name: " superbigsteam"
         path: 'https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/dns.txt'
       
