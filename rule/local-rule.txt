@@ -11,20 +11,11 @@
 @@||itop.qq.com^$important
 
 #番茄小说
-||polaris3-normal-lf.zijieapi^
-||ads3-normal-lf.zijieapi.com^
-||gecko5-lf.zijieapi.com^
 ||frontier100-toutiao-lf.fqnovel.com^
 ||p26-be-pack-sign.pglstatp-toutiao.com^
-||abtest3-misc-lf.zijieapi.com^
-||ads5-normal-lf.zijieapi.com^
-||abtest3-misc-lf.zijieapi.com^
-||mon.zijieapi.com^
 ||zijie*
 ||pangolin*
-||api-access.pangolin-sdk-toutiao.com^
 ||p9-be-pack-sign.pglstatp-toutiao.com^
-||sf3-fe-tos.pglstatp-toutiao.com^
 ||sf3-fe-tos.pglstatp-toutiao.com^
 ||appcfg.v.qq.com^
 ||vv.video.qq.com^
@@ -32,11 +23,8 @@
 ||pgdt.gtimg.cn^
 ||puui.qpic.cn/vcover_hz_pic^
 ||xw.jietuguanjia.com/api/app/getNewVersion
-||log.zijieapi.com^
 ||lf6-ad-union-sdk.pglstatp-toutiao.com^
 ||ulogs.umeng.com^
-||log-api.pangolin-sdk-toutiao-b.com^
-||p1-lm.adkwai.com^
 ||p1-lm.adkwai.com^
 
 #抖音
