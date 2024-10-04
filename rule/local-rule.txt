@@ -270,6 +270,7 @@
 #公共CDN和加密DNS
 @@||bootcdn.net^$important
 ||httpdns.alicdn.com^$important
+||httpdns.platform.dbankcloud.com^$important
 ||apidns.kwd.inkuai.com
 ||dns.iqiyi.com
 ||dns.jd.com
@@ -614,5 +615,9 @@
 
 #放行雅虎
 @@||yahoo.com^$important
+
+||*duga.zhihu.com*
+
+
 
 
