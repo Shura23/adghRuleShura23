@@ -2,7 +2,7 @@
 <h1>adghRuleShura23</h1>
   <p>
     广告过滤规则订阅器，整合不同来源的规则，帮助你快速构建属于自己的规则集
-    AdguardHome-demonicAsura规则列表具有拦截广告、跟踪器、屏蔽危险钓鱼网站、禁用pcdn、GitHub和steam商店加速的功能
+    adghRuleShura23规则列表具有拦截广告、跟踪器、屏蔽危险钓鱼网站、禁用pcdn、GitHub和steam商店加速的功能
   </p>
 <!-- Badges -->
 <p>
