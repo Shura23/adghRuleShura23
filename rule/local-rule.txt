@@ -5,6 +5,9 @@
 
 @@||www.a.shifen.com^$important
 
+#放行阿里dns
+@@||dns.alidns.com^$important
+
 @@||www.a.shifen.com^$important
 #放行三角洲行动
 @@||cdntips.net^$important
