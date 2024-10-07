@@ -603,8 +603,6 @@
 ||static.doubleclick.net^
 ||googleads.g.doubleclick.net^
 ||ssl.google-analytics.com^
-||api.zhihu.com^$important
-||sentry.in.zhihu.com.mshome.net^$important
 ||adnxs.com^$important
 ||dig.bdurl.net^$important
 ||stun*.l.google.com^$important
