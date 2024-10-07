@@ -41,7 +41,7 @@
 1. 仅支持基本规则转换，即域名、通配域名构成的规则，对形如 `||example.org^$popup` 等规则无法转换(合并、去重不受影响) 
 2. 接受不可避免的缩限，如 `||example.org^` 将拦截 example.org 及其所有子域，但将其转换为 hosts 格式时，将无法匹配子域名。
 3. 规则有效性检测基于域名解析，因此仅支持基本规则。
-
+<h2 id="c">🎯 规则订阅</h2>
 **⚠ 本仓库提供规则订阅，我们更推荐 fork 本项目自行构建规则集.**
 
 广告过滤规则demonicAsura链接：(https://raw.githubusercontent.com/Shura23/adghRuleShura23/refs/heads/v2/rule/easylist.txt) </br>
@@ -195,7 +195,7 @@ mvn spring-boot:run
 此时选择 **Sync fork** 再选择 **Update branch** 即可同步更新.  
 (如曾修改过源代码，那么合并可能存在冲突，请谨慎处理)
 
-<h2 id="c">🎯 规则订阅</h2>
+
 
 
 
