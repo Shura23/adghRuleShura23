@@ -16,8 +16,15 @@
 #番茄小说
 ||frontier100-toutiao-lf.fqnovel.com^
 ||p26-be-pack-sign.pglstatp-toutiao.com^
-||zijie*
-||pangolin*
+||polaris3-normal-lf.zijieapi^
+||ads3-normal-lf.zijieapi.com^
+||gecko5-lf.zijieapi.com^
+||frontier100-toutiao-lf.fqnovel.com^
+||p26-be-pack-sign.pglstatp-toutiao.com^
+||abtest3-misc-lf.zijieapi.com^
+||ads5-normal-lf.zijieapi.com^
+||abtest3-misc-lf.zijieapi.com^
+||mon.zijieapi.com^
 ||p9-be-pack-sign.pglstatp-toutiao.com^
 ||sf3-fe-tos.pglstatp-toutiao.com^
 ||appcfg.v.qq.com^
