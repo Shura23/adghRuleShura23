@@ -592,8 +592,7 @@
 ||alog.umeng.com^$important
 ||ulogs.umeng.com^$important
 ||errlog.umeng.com^$important
-#放行MCN网址
-@@||assets.msn.cn^$important
+
 
 ||btloader.com^$important
 ||cdn.taboola.com^$important
