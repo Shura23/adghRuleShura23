@@ -12,7 +12,8 @@
 #放行三角洲行动
 @@||cdntips.net^$important
 @@||itop.qq.com^$important
-
+#放行微软MSN
+@@||assets.msn.cn^$important
 #番茄小说
 ||frontier100-toutiao-lf.fqnovel.com^
 ||p26-be-pack-sign.pglstatp-toutiao.com^
